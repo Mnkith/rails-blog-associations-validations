@@ -3,7 +3,7 @@
 This is the second lab iteration off of [Rails Blog Scaffold](https://github.com/learn-co-curriculum/rails-blog-scaffold/tree/master).
 
 *Remember*: when you generate models, controllers, etc., be sure to include the `--no-test-framework` option so that it skips tests (which the labs already have).
-
+ 
 ## Objectives:
 - Add a column to an existing table.
 - Generate models, views, and controllers.
